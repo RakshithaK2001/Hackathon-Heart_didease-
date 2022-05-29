@@ -1,1 +1,1 @@
-# Hackathon-Heart_didease-
+# Hackathon-Heart_disease
